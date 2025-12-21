@@ -22,15 +22,7 @@
                 <key>serverId</key>
                 <string>1</string>
                 <key>serverName</key>
-                <string>S1 PRE-ALPHA RUSTC</string>
-                <key>url</key>
-                <string>https://ru-nlw.nlwgen.org/1/</string>
-            </dict>
-            <dict>
-                <key>serverId</key>
-                <string>2</string>
-                <key>serverName</key>
-                <string>S2 PRE-ALPHA DENOJS</string>
+                <string>S1 PRE-ALPHA DENOJS</string>
                 <key>url</key>
                 <string>https://ru-nlw.nlwgen.org/2/</string>
             </dict>
