@@ -24,7 +24,7 @@
                 <key>serverName</key>
                 <string>S1 PRE-ALPHA DENOJS</string>
                 <key>url</key>
-                <string>https://ru-nlw.nlwgen.org/2/</string>
+                <string>http://127.0.0.1:3000/</string>
             </dict>
         </array>
     </dict>
