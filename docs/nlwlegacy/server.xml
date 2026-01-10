@@ -3,7 +3,7 @@
 <plist version="1.0">
     <dict>
         <key>alert</key>
-        <string>Сервер в стадии разработки!\nTG: @nlwgen</string>
+        <string>Сервер в стадии разработки!    TG: @nlwgen</string>
         <key>MATAdvertiserId</key>
         <string>11870</string>
         <key>MATConversionKey</key>
