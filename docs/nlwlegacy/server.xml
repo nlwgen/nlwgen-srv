@@ -3,7 +3,7 @@
 <plist version="1.0">
     <dict>
         <key>alert</key>
-        <string>─────────────────────
+        <string>───────────────────
    СЕРВЕР В РАЗРАБОТКЕ
 ───────────────────
 TG: @nlwgen
@@ -19,7 +19,7 @@ TG: @nlwgen
         <key>appStoreUrl</key>
         <string>https://ru-nlw.nlwgen.org/update/nlwgen-legacy.apk</string>
         <key>minVersion</key>
-        <string>0.0.1a</string>
+        <string>0.1.0b</string>
         <key>recommendedServerId</key>
         <string>1</string>
         <key>servers</key>
