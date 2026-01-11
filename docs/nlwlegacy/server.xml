@@ -2,6 +2,15 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
     <dict>
+        <key>alert</key>
+        <string>───────────────────
+   СЕРВЕР В СТАДИИ РАЗРАБОТКИ!
+───────────────────
+Официальный Telegram-канал: @nlwgen
+───────────────────
+Обновление версии клиента: 0.3.11b
+Скоро станет доступно.
+───────────────────</string>
         <key>MATAdvertiserId</key>
         <string>11870</string>
         <key>MATConversionKey</key>
@@ -13,7 +22,7 @@
         <key>appStoreUrl</key>
         <string>https://ru-nlw.nlwgen.org/update/nlwgen-legacy.apk</string>
         <key>minVersion</key>
-        <string>0.3.10b</string>
+        <string>0.3.11b</string>
         <key>recommendedServerId</key>
         <string>1</string>
         <key>servers</key>
