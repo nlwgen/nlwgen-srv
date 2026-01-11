@@ -2,7 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
     <dict>
-<<<<<<< HEAD
         <key>alert</key>
         <string>───────────────────
    СЕРВЕР В СТАДИИ РАЗРАБОТКИ!
@@ -13,8 +12,6 @@ Telegram: @nlwgen
 Новая версия клиента: 0.3.10b
 Будет доступна в ближайшее время!
 ───────────────────</string>
-=======
->>>>>>> 3632bca298cf3c9a184905b9083c5e198acf21f9
         <key>MATAdvertiserId</key>
         <string>11870</string>
         <key>MATConversionKey</key>
