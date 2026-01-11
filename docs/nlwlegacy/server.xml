@@ -7,6 +7,10 @@
    СЕРВЕР В СТАДИИ РАЗРАБОТКИ!
 ───────────────────
 Telegram: @nlwgen
+───────────────────
+Текущая версия клиента: 0.3.8b
+Новая версия клиента: 0.3.10b
+Будет доступна в ближайшее время!
 ───────────────────</string>
         <key>MATAdvertiserId</key>
         <string>11870</string>
@@ -19,7 +23,7 @@ Telegram: @nlwgen
         <key>appStoreUrl</key>
         <string>https://ru-nlw.nlwgen.org/update/nlwgen-legacy.apk</string>
         <key>minVersion</key>
-        <string>0.1.0b</string>
+        <string>0.3.8b</string>
         <key>recommendedServerId</key>
         <string>1</string>
         <key>servers</key>
