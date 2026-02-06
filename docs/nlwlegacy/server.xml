@@ -22,7 +22,7 @@
         <key>appStoreUrl</key>
         <string>https://ru-nlw.nlwgen.org/update/nlwgen-legacy.apk</string>
         <key>minVersion</key>
-        <string>0.3.11b</string>
+        <string>0.4.1dev</string>
         <key>recommendedServerId</key>
         <string>1</string>
         <key>servers</key>
